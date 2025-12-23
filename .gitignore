@@ -1,0 +1,22 @@
+# Virtual environment
+resume/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
